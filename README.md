@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cybersecurity pen testing methods and reports**
 
-- 👯 I’m looking to collaborate on **Software development projects, and Cyber Security penytest**
+- 👯 I’m looking to collaborate on **Software development projects, and Cyber Security pen-testing**
 
 - 💬 Ask me about **anything related to software development and cybersecurity :)**
 
